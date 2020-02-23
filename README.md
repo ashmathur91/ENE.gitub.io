@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Enterprise Networking Assignment Tutorial Page
 
-You can use the [editor on GitHub](https://github.com/ashmathur91/ENE.gitub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ASSIGNMENT - 0 
 
 ### Markdown
 
